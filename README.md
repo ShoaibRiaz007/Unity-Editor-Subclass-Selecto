@@ -27,6 +27,11 @@ A custom Unity Editor tool that simplifies subclass assignment for fields marked
 
 ### Example
 
+<video controls width="640">
+  <source src="https://github.com/ShoaibRiaz007/Unity-Editor-Subclass-Selecto/blob/main/random.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ```csharp
 using UnityEngine;
 
